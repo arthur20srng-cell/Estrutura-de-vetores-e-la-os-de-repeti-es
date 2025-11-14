@@ -1,2 +1,2 @@
-# Estrutura-de-vetores-e-la-os-de-repeti-es
+# Estruturas de vetores e laços de repetiçoes
 Exercícios sobre vetores e laço for 
